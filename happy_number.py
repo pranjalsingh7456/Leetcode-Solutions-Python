@@ -9,4 +9,4 @@ def happy(n):
         n = sum_sq
     return n == 1
 
-print(happy(19))
+print(happy(70))
